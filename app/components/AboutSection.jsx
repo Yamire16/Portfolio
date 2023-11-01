@@ -51,10 +51,9 @@ const AboutSection = () => {
                         I finally found my calling as a 3D artist using Blender, and I am eager to develop my skills and pursue a career in this field.
                         <br></br>
                         <br></br>
-                        I am a highly motivated and results-oriented individual with a strong work ethic. I am also a quick learner and I am always looking for new ways
-                        to improve my skills. I am also familiar with other 3D software such as 3ds Max. I am also familiar with game engines such as Unity
-                        and Unreal Engine.
-
+                        I am a highly motivated and results-oriented individual with a strong work ethic by practising my skills through projects every day.
+                        In addition to Blender I'm a bit familiar with 3ds Max, Unreal Engine and Unity with experience developing small projects 
+                        using these softwares.
 
                     </p>
                     <div className="flex flex-row justify-start mt-8">
