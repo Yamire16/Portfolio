@@ -39,6 +39,12 @@ const projectsData = [
     description: "An island in a bottle? Who would have thought, does anyone live in there?",
     image: "/images/IslandBottle1080.png",
     tag: ["All", "Blender"],
+  },{
+    id: 6,
+    title: "Chibi Gwen",
+    description: "A chibi version of Gwen. Used a reference from TFT's little legends",
+    image: "/images/Gwen_BlueBG.png",
+    tag: ["All", "Blender"],
   },
 ];
 
